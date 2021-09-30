@@ -1,0 +1,74 @@
+{
+  "tests": [
+    {
+      "name": "Largest Number",
+      "setup": "",
+      "run": "java Main.java",
+      "input": "",
+      "output": "Largest Number: 940",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Smallest Number",
+      "setup": "",
+      "run": "java Main.java",
+      "input": "",
+      "output": "Smallest Number: 20",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Sum",
+      "setup": "",
+      "run": "java Main.java",
+      "input": "",
+      "output": "Sum: 9096",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Average",
+      "setup": "",
+      "run": "java Main.java",
+      "input": "",
+      "output": "Average: 454.8",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Even Numbers",
+      "setup": "",
+      "run": "java Main.java",
+      "input": "",
+      "output": "Even Numbers: [244, 758, 450, 302, 20, 712, 456, 398, 882, 848, 940, 472]",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Odd Numbers",
+      "setup": "",
+      "run": "java Main.java",
+      "input": "",
+      "output": "Odd Numbers: [469, 755, 245, 71, 21, 339, 179, 535]",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Divisible by 8",
+      "setup": "",
+      "run": "java Main.java",
+      "input": "",
+      "output": "Numbers divisible by 8: [712, 456, 848, 472]",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
