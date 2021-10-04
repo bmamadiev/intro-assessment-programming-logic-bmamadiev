@@ -43,7 +43,7 @@
     {
       "name": "Even Numbers",
       "setup": "",
-      "run": "java Main.java",
+      "run": "java src/Main.java",
       "input": "",
       "output": "Even Numbers: [244, 758, 450, 302, 20, 712, 456, 398, 882, 848, 940, 472]",
       "comparison": "included",
